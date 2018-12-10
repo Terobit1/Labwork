@@ -30,6 +30,7 @@ public:
     void inf (){
         cout << "\nНа вашому балансi "<< cash<<" "<< valyta <<"\n\n";
     }
+    
     void out(){
      cout << "\nВведiть скiльки ви хочите зняти з балансу\n\n";
              cin >> c;
